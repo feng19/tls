@@ -18,6 +18,7 @@ defmodule TlsWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
+    live "/svelte/sigil", LiveSigil
   end
 
   # Other scopes may use custom stacks.

@@ -4,7 +4,8 @@
     "esbuild-plugin-import-glob": "^0.1.1",
     "esbuild-svelte": "^0.8.1",
     "svelte": "^4.2.18",
-    "svelte-preprocess": "^6.0.2"
+    "svelte-preprocess": "^6.0.2",
+    "typescript": "^5.5.4"
   },
   "dependencies": {
     "clsx": "^2.1.1",
